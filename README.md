@@ -14,8 +14,7 @@ Snippet of code for a python program that adds two numbers and print the result
 ```python 
 num1 = 2
 num2 = 3
-sum = num1 + num2
-print(sum)```
+sum = num1 + num2```
 
 ### Lists
 - [x] Turn on GitHub Pages
