@@ -10,10 +10,12 @@ Miranda Urban Solano
 of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
 
 ### Code examples
-Snippet of code for a python program that adds two numbers
-```python num1 = 2 ```
-```python num2 = 3 ```
-```python sum = num1 + num2 ```
+Snippet of code for a python program that adds two numbers and print the result
+```python 
+num1 = 2
+num2 = 3
+sum = num1 + num2
+print(sum)```
 
 ### Lists
 - [x] Turn on GitHub Pages
