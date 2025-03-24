@@ -10,8 +10,18 @@ Miranda Urban Solano
 of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
 
 ### Code examples
+Snippet of code for a python program that adds two numbers
+```python num1 = 2 ```
+```python num2 = 3 ```
+```python sum = num1 + num2 ```
+
+### Lists
+- [x] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [x] Introduce myself to the world
+
 
 ## References
-[Github documentation]([https://git-scm.com/book/en/v2)](https://docs.github.com/en)
+[Github documentation](https://docs.github.com/en)
 [Github glossary](https://docs.github.com/en/get-started/learning-about-github/github-glossary)
 [Git documentation](https://git-scm.com/doc)
