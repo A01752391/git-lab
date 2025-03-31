@@ -4,6 +4,9 @@ b = int(input(“Give me the second number:”))
 # Display the addition
 print("Addition: ", a+b)
 # Display the subtraction
+<<<<<<< HEAD
 print("Substraction: ", a-b)
 # Display multiplication
 
+=======
+>>>>>>> LuisSantiago
