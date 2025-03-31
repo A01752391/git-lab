@@ -5,5 +5,4 @@ b = int(input(“Give me the second number:”))
 print("Addition: ", a+b)
 # Display the subtraction
 print("Substraction: ", a-b)
-# Display multiplication
 
